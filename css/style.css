@@ -285,6 +285,7 @@ section {
 .menu .box-container .box img {
     height: 8rem;
     margin-left: -6rem;
+    border-radius: 20px;
 }
 
 .menu .box-container .box .content h3 {
